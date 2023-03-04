@@ -12,7 +12,7 @@
 #include <Misc.au3>
 #EndRegion Includes
 
-_Singleton(@idmtrialreset)
+_Singleton(@ScriptName)
 
 #Region Options
 Opt('MustDeclareVars', 1)
